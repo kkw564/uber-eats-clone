@@ -1,3 +1,3 @@
-# uber-clone
+# uber-eats-clone
 uber clone coding
 test
